@@ -1,2 +1,2 @@
 # SampleDjangoSettings-Extended
-Common features that are repeatedle being used in django projects
+Common features that are repeatedly being used in django projects
