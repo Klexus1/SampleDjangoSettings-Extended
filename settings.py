@@ -215,13 +215,9 @@ LOGGING = {
     },
 }
 
-# CRISPY_TEMPLATE_PACK = 'bootstrap4'
-
 SITE_ID = 1
 
 DEFAULT_AUTO_FIELD= 'django.db.models.AutoField'
-
-# ACCOUNT_ADAPTER = 'smsGate.adapter.NoNewUsersAccountAdapter'
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/media/'
