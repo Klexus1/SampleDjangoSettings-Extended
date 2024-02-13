@@ -43,6 +43,8 @@ TEMPLATES = [
     },
 ]
 
+ROOT_URLCONF = "my_app.urls"
+
 WSGI_APPLICATION = 'my_app.wsgi.application'
 
 ALLOWED_HOSTS = [
